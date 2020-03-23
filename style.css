@@ -18,7 +18,9 @@ h5{
     font-size: 15px;
     font-weight: 500;
 }
-    
+
+
+/*link*/ 
 
 a:link {
 color: #D71920;
@@ -26,10 +28,11 @@ color: #D71920;
 a:visited {
 color: #D71920;
 }
-
 .anodecor, .anodecor:hover{   
     text-decoration: none;
 }
+
+/*navbar dropdown-menu*/
 
 .navbar{
     text-transform: uppercase;
@@ -38,11 +41,6 @@ color: #D71920;
     background: rgba(248,248,248, 0.97)!important;
 }
 
-.dropdown-menu{
-    text-transform: uppercase;
-    letter-spacing: .1rem;
-    font-size: 0.7rem;  
-}
 .navbar-brand img{
     height: 2.4rem;
 }
@@ -61,6 +59,40 @@ color: #D71920;
     color: #D71920;
 }
 
+.dropdown-menu{
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    font-size: 0.7rem;  
+}
+
+.dropdown-menu a:visited{
+    color: #D71920;
+    background-color: white;
+}
+
+.dropdown-menu a:hover{
+    text-decoration: underline;
+}
 
 
+/*format*/
+.jumbotron{
+     font-size: 14px; 
+     padding: 5px 10px 5px 10px; 
+     margin-top: 10px; 
+     margin-bottom: 10px;
+     background-color: white;
+     text-align: justify;
+     font-weight: 300;
+}
+
+
+/*table*/
+.table{
+    width: 900px;
+}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: rgba(248,248,248, 0.97)!important;
+;
+}
 
