@@ -1,0 +1,66 @@
+/* created by Ying Hu using BootStrap library */
+/* 04/2020 */
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Pro:400,700|Source+Sans+Pro:400,700|Source+Serif+Pro:400,700&display=swap');
+
+body {
+    overflow-x: hidden;
+    color:black;
+    font-size: 14px;
+}  
+
+h3{
+    font-size: 18px;
+    font-weight: 500;
+} 
+
+h5{
+    font-size: 15px;
+    font-weight: 500;
+}
+    
+
+a:link {
+color: #D71920;
+}
+a:visited {
+color: #D71920;
+}
+
+.anodecor, .anodecor:hover{   
+    text-decoration: none;
+}
+
+.navbar{
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    font-size: 0.7rem;  
+    background: rgba(248,248,248, 0.97)!important;
+}
+
+.dropdown-menu{
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    font-size: 0.7rem;  
+}
+.navbar-brand img{
+    height: 2.4rem;
+}
+
+.navbar-nav li{
+    padding-right: .7rem;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    padding-top: 0.8rem;
+    color: black;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #D71920;
+}
+
+
+
+
