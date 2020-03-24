@@ -76,14 +76,15 @@ color: #D71920;
 
 
 /*format*/
-.jumbotron{
+.boxed{
      font-size: 14px; 
      padding: 5px 10px 5px 10px; 
      margin-top: 10px; 
      margin-bottom: 10px;
      background-color: white;
      text-align: justify;
-     font-weight: 300;
+     font-weight: 400;
+     border: .5px solid rgba(248,248,248, 0.97);
 }
 
 
