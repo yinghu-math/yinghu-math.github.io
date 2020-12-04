@@ -32,6 +32,10 @@ color: #D71920;
     text-decoration: none;
 }
 
+a.less:link {color:black;text-decoration:none;}
+a.less:visited {color:black;text-decoration:none;}
+a.less:hover {text-decoration:underline;}
+
 /*navbar dropdown-menu*/
 
 .navbar{
