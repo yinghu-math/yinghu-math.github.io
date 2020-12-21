@@ -15,18 +15,18 @@ h3{
 } 
 
 h5{
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 500;
 }
 
 
-/*link*/ 
+/*link #7FB3D5*/ 
 
 a:link {
 color: #D71920;
 }
 a:visited {
-color: #D71920;
+color: #5AB9EA;
 }
 .anodecor, .anodecor:hover{   
     text-decoration: none;
