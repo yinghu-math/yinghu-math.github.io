@@ -28,6 +28,9 @@ color: #D71920;
 a:visited {
 color: #5AB9EA;
 }
+a:hover{
+    color: #5AB9EA;
+}
 .anodecor, .anodecor:hover{   
     text-decoration: none;
 }
