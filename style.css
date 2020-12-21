@@ -20,16 +20,16 @@ h5{
 }
 
 
-/*link #5AB9EA*/ 
+/*link */ 
 
 a:link {
-color: #D71920;
+color: #5AB9EA ;
 }
 a:visited {
-color: #5AB9EA;
+color:  #D1AD54;
 }
 a:hover{
-    color: #5AB9EA;
+    color: #D1AD54;
 }
 .anodecor, .anodecor:hover{   
     text-decoration: none;
