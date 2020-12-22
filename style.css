@@ -20,13 +20,14 @@ h5{
 }
 
 
-/*link #59ABE3 */ 
+
+/*link  blue: #578CDB;*/ 
 
 a:link {
-color: #578CDB;
+color: #578CDB;;
 }
 a:visited {
-color: #578CDB;
+color: #578CDB;;
 }
 a:hover{
     color: #D1AD54;
@@ -34,6 +35,21 @@ a:hover{
 .anodecor, .anodecor:hover{   
     text-decoration: none;
 }
+
+a.title:link {
+color: #578CDB;;
+;
+}
+a.title:visited {
+color: #578CDB;;
+}
+a.tilte:hover{
+    color: #D1AD54;
+}
+.anodecor, .anodecor:hover{   
+    text-decoration: none;
+}
+
 
 a.less:link {color:black;text-decoration:none;}
 a.less:visited {color:black;text-decoration:none;}
