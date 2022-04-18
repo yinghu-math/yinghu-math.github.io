@@ -19,7 +19,12 @@ h5{
     font-weight: 500;
 }
 
-
+hr{
+    border: dotted #FD5D5D 4px;
+    border-bottom: none;
+    margin: 50px auto 50px;
+    width: 5%;
+}
 
 /*link  blue: #578CDB;*/ 
 
