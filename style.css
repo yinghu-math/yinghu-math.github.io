@@ -7,12 +7,12 @@ body {
     overflow-x: hidden;
     color:black;
     font-size: 15px;
-}  
+}
 
 h3{
     font-size: 18px;
     font-weight: 500;
-} 
+}
 
 h5{
     font-size: 17px;
@@ -20,19 +20,20 @@ h5{
 }
 
 hr{
-    border: dotted #FD5D5D 4px;
+    border: dashed #FD5D5D 1px;
     border-bottom: none;
     margin: 50px auto 50px;
-    width: 5%;
+    width: 3%;
 }
 
 footer {
     background-color:rgba(248,248,248, 0.97);
     height: 100px;
+    margin-top: 100px;
 }
 
 
-/*link  blue: #578CDB;*/ 
+/*link  blue: #578CDB;*/
 
 a:link {
 color: #578CDB;;
@@ -43,7 +44,7 @@ color: #578CDB;;
 a:hover{
     color: #FD5D5D;
 }
-.anodecor, .anodecor:hover{   
+.anodecor, .anodecor:hover{
     text-decoration: none;
 }
 
@@ -57,7 +58,7 @@ color: #578CDB;;
 a.tilte:hover{
     color: #D1AD54;
 }
-.anodecor, .anodecor:hover{   
+.anodecor, .anodecor:hover{
     text-decoration: none;
 }
 
@@ -71,7 +72,7 @@ a.less:hover {text-decoration:underline;}
 .navbar{
     text-transform: uppercase;
     letter-spacing: .1rem;
-    font-size: 0.7rem;  
+    font-size: 0.7rem;
     background: rgba(248,248,248, 0.97)!important;
 }
 
@@ -96,7 +97,7 @@ a.less:hover {text-decoration:underline;}
 .dropdown-menu{
     text-transform: uppercase;
     letter-spacing: .1rem;
-    font-size: 0.7rem;  
+    font-size: 0.7rem;
 }
 
 .dropdown-menu a:visited{
@@ -111,9 +112,9 @@ a.less:hover {text-decoration:underline;}
 
 /*format*/
 .boxed{
-     font-size: 15px; 
-     padding: 5px 10px 5px 10px; 
-     margin-top: 10px; 
+     font-size: 15px;
+     padding: 5px 10px 5px 10px;
+     margin-top: 10px;
      margin-bottom: 10px;
      background-color: white;
      text-align: justify;
@@ -122,10 +123,14 @@ a.less:hover {text-decoration:underline;}
 }
 
 .footnote{
-    color: #7c7c7c; 
-    font-size: 12px; 
-    position: relative; 
+    color: #7c7c7c;
+    font-size: 12px;
+    position: relative;
     top: 40px;
+}
+
+.footnote_anchor{
+   color: #FD5D5D !important;
 }
 
 /*table*/
@@ -136,4 +141,3 @@ a.less:hover {text-decoration:underline;}
   background-color: rgba(248,248,248, 0.97)!important;
 ;
 }
-
