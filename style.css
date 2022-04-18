@@ -26,6 +26,12 @@ hr{
     width: 5%;
 }
 
+footer {
+    background-color:rgba(248,248,248, 0.97);
+    height: 100px;
+}
+
+
 /*link  blue: #578CDB;*/ 
 
 a:link {
@@ -115,6 +121,12 @@ a.less:hover {text-decoration:underline;}
      border: .5px solid rgba(248,248,248, 0.97);
 }
 
+.footnote{
+    color: #7c7c7c; 
+    font-size: 12px; 
+    position: relative; 
+    top: 40px;
+}
 
 /*table*/
 .table{
