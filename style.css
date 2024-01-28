@@ -18,7 +18,7 @@ h5{
 }
 
 hr{
-    border: dashed #FD5D5D 1px;
+    border: dashed #d91212 1px;
     border-bottom: none;
     margin: 50px auto 50px;
     width: 3%;
@@ -31,16 +31,16 @@ footer {
 }
 
 
-/*link  blue: #578CDB;*/
+/*link  blue: #578CDB; red: #FD5D5D*/
 
 a:link {
-color: #578CDB;;
+color: #b11313;;
 }
 a:visited {
-color: #578CDB;;
+color: #b11313;;
 }
 a:hover{
-    color: #FD5D5D;
+    color: #578CDB;
 }
 .anodecor, .anodecor:hover{
     text-decoration: none;
