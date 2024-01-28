@@ -35,13 +35,13 @@ footer {
 /*link  blue: #578CDB; red: #FD5D5D; dark red: #D24545; purple: A62671 */
 
 a:link {
-color: #55B3B1;
+color: #D24545;
 }
 a:visited {
-color: #55B3B1;
+color: #D24545;
 }
 a:hover{
-    color: #D24545;
+    color: #55B3B1;
 }
 .anodecor, .anodecor:hover{
     text-decoration: none;
