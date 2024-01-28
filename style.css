@@ -32,16 +32,16 @@ footer {
 }
 
 
-/*link  blue: #578CDB; red: #FD5D5D;  */
+/*link  blue: #578CDB; red: #FD5D5D; dark red: #D24545; purple: A62671 */
 
 a:link {
-color: #b11313;;
+color: #D24545;
 }
 a:visited {
-color: #b11313;;
+color: #D24545;
 }
 a:hover{
-    color: #578CDB;
+    color: #55B3B1;
 }
 .anodecor, .anodecor:hover{
     text-decoration: none;
@@ -129,7 +129,7 @@ a.less:hover {text-decoration:underline;}
 }
 
 .footnote_anchor{
-   color: #FD5D5D !important;
+   color: #D24545!important;
 }
 
 /*table*/
