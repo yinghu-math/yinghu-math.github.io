@@ -18,10 +18,10 @@ h5{
 }
 
 hr{
-    border: dashed #d91212 1px;
+    border: solid white 1px;
     border-bottom: none;
     margin: 50px auto 50px;
-    width: 3%;
+    width: 10%;
 }
 
 footer {
