@@ -3,13 +3,14 @@
 
 body {
     overflow-x: hidden;
-    color:black;
-    font-size: 15px;
+    color:rgba(0, 0, 0, 0.72);
+    font-size: 16px;
 }
 
 h3{
     font-size: 18px;
     font-weight: 500;
+    margin: 20px auto 20px;
 }
 
 h5{
@@ -31,7 +32,7 @@ footer {
 }
 
 
-/*link  blue: #578CDB; red: #FD5D5D*/
+/*link  blue: #578CDB; red: #FD5D5D;  */
 
 a:link {
 color: #b11313;;
