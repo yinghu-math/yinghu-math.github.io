@@ -6,10 +6,11 @@ slug: /teaching
 
 <ul>
 <li>
-Calculus 1 
+Math 1950 Calculus 1 
 </li>
 <li>
-Abstract Algebra I
+MATH 4110 Abstract Algebra I  <br>
+Textbook: <em>Contemporary Abstract Algebra</em> by Joseph Gallian.
 </li>
 </ul>
 
