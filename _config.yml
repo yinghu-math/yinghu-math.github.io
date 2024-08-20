@@ -1,0 +1,46 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Ying Hu
+description: >- # this means to ignore newlines until "baseurl:"
+  Academic Website
+baseurl: "" # the subpath of the site
+url: "https://yinghu-math.github.io/" # Update to your GitHub Pages URL
+og_image: /assets/img/profile-pic.jpg
+
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Publications
+      slug: /research/
+    - name: Teaching
+      slug: /teaching/
+
+footer:
+  show_powered_by: true # Hide "Powered by" text if desired
+  contact: []
+  follow: []
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
