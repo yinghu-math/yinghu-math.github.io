@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Fall 2024
-slug: /teaching/
+slug: /teaching
 ---
 
 <ul>

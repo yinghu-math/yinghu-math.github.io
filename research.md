@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Publications
-slug: /research/
+slug: /research
 ---
 
 <div>

@@ -13,9 +13,9 @@ header:
     - name: Home
       slug: /
     - name: Publications
-      slug: /research/
+      slug: /research
     - name: Teaching
-      slug: /teaching/
+      slug: /teaching
 
 footer:
   show_powered_by: true # Hide "Powered by" text if desired

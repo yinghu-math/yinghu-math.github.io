@@ -7,7 +7,7 @@ profile_picture:
 
 <p>Hello, my name is Ying Hu (she/her/hers). I'm an Associate Professor in the Department of Mathematical and Statistical Sciences. </p>
 
-<p>I work in the area of low-dimensional topology. You can find my research articles on the <a href="/research/">publications</a> page and view my <a href="/assets/files/CV2023.pdf" target="_blank">CV</a>.</p> 
+<p>I work in the area of low-dimensional topology. You can find my research articles on the <a href="/research">publications</a> page and view my <a href="/assets/files/CV2023.pdf" target="_blank">CV</a>.</p> 
 
 My research is supported by NSF grant DMS-2409398.
 
