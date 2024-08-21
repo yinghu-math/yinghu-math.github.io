@@ -8,4 +8,5 @@ slug: /other
 
 ## test
 
-This is to test latex $\alpha$
+<p>
+This is to test latex \(\alpha\) </p>

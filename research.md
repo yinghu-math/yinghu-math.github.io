@@ -14,7 +14,7 @@ slug: /research
             <li> Here is the <a href="/assets/files/jsj_surgeries_atlanta.pdf" target="_blank" style="color: #55B3B1;">slide</a> of a talk I gave in 2023 based on the results in this paper.
             </li> 
             </ul>
-        <li> (with S. Boyer and C. Gordon) <em>Recalibrating R-order trees and Homeo_+(S^1)-representations of link groups</em>, 43 pgs, 2023, submitted. <a href="https://arxiv.org/abs/2306.10357">preprint</a>
+        <li> (with S. Boyer and C. Gordon) <em>Recalibrating \(\mathbb{R}\)-order trees and \({\rm Homeo}_+(S^1)\)-representations of link groups</em>, 43 pgs, 2023, submitted. <a href="https://arxiv.org/abs/2306.10357">preprint</a>
         </li>
         <li>(with S. Boyer and C. Gordon) <em>Slope detection and toroidal 3-manifolds</em>, 60 pgs, 2021, submitted. <a href="https://arxiv.org/abs/2106.14378">preprint</a>
         </li>
