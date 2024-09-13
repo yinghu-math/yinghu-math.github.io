@@ -8,20 +8,21 @@ slug: /research
     <ul>
         <li>(with S. Boyer and C. Gordon) <em>Cyclic branched covers of Seifert links and properties related to the ADE link conjecture</em>, 54 pgs, 2024, submitted. <a href="https://arxiv.org/abs/2402.15914">preprint</a>
         </li>
-        <li>(with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a> and <a href="https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349">C. Gordon</a>) <em>JSJ decompositions of knot exteriors, Dehn surgery and the L-space conjecture</em>, 31 pgs, 2023, submitted.  <a href="https://arxiv.org/abs/2307.06815">preprint</a>
-        </li>
-            <ul>
-            <li> Here is the <a href="/assets/files/jsj_surgeries_atlanta.pdf" target="_blank" style="color: #55B3B1;">slide</a> of a talk I gave in 2023 based on the results in this paper.
-            </li> 
-            </ul>
         <li> (with S. Boyer and C. Gordon) <em>Recalibrating \(\mathbb{R}\)-order trees and \({\rm Homeo}_+(S^1)\)-representations of link groups</em>, 43 pgs, 2023, submitted. <a href="https://arxiv.org/abs/2306.10357">preprint</a>
         </li>
         <li>(with S. Boyer and C. Gordon) <em>Slope detection and toroidal 3-manifolds</em>, 60 pgs, 2021, submitted. <a href="https://arxiv.org/abs/2106.14378">preprint</a>
-        </li>
             <ul>
             <li style="margin: 5px 0;"> Here is the <a href="/assets/files/slope_detection_talk_note_CMS.pdf" target="_blank" style="color: #55B3B1;">slide</a> of the talk I gave at the CMS summer meeting. Some of the results in the paper are discussed there.
             </li>
             </ul>
+        </li>
+        <li>(with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a> and <a href="https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349">C. Gordon</a>) <em>JSJ decompositions of knot exteriors, Dehn surgery and the L-space conjecture</em>, 31 pgs, <br> 
+        <em>Selecta Mathematica</em>, to appear.  <a href="https://arxiv.org/abs/2307.06815">preprint</a>
+            <ul>
+            <li> Here is the <a href="/assets/files/jsj_surgeries_atlanta.pdf" target="_blank" style="color: #55B3B1;">slide</a> of a talk I gave in 2023 based on the results in this paper.
+            </li> 
+            </ul>
+        </li>
         <li> (with <a href="https://sites.google.com/bc.edu/john-baldwin/home">J. Baldwin</a> and <a href="http://wwwf.imperial.ac.uk/~ssivek/">S. Sivek</a>) <em>Khovanov homology and the cinquefoil</em>, 21 pgs, <br>
         <em>Journal of the European Mathematical Society</em>, to appear. <a href="https://ems.press/journals/jems/articles/13947393"> Journal link </a> | <a href="https://arxiv.org/abs/2105.12102">preprint</a>
         </li>
