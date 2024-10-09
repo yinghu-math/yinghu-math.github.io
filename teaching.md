@@ -9,7 +9,7 @@ slug: /teaching
 Math 1950 Calculus 1 
 </li>
 <li>
-MATH 4110 Abstract Algebra I  <br>
+Math 4110 Abstract Algebra I  <br>
 Textbook: <em>Contemporary Abstract Algebra</em> by Joseph Gallian.
 </li>
 </ul>
