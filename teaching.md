@@ -1,16 +1,19 @@
 ---
 layout: work
-title: Fall 2024
+title: Spring 2025
 slug: /teaching
 ---
 
 <ul>
+<li>Math 2230 Introduction to Abstract Mathematics <br>
+    Textbook (OER): <a href="https://www.people.vcu.edu/~rhammack/BookOfProof/">Book of proof</a>, R. Hammack.<br>
+    </li>
 <li>
-Math 1950 Calculus 1 
+Math 4120/8116 Abstract Algebra II <br>
+Textbook: <em>Contemporary Abstract Algebra, 9th edition</em> by Joseph Gallian.
 </li>
-<li>
-Math 4110 Abstract Algebra I  <br>
-Textbook: <em>Contemporary Abstract Algebra</em> by Joseph Gallian.
+<li>Math 4050/8056 Linear Algebra<br>
+    Textbook: <a href="https://linear.axler.net/">Linear algebra done right, 4th edition</a> by Sheldon Axler. 
 </li>
 </ul>
 
@@ -28,8 +31,10 @@ Textbook: <em>Contemporary Abstract Algebra</em> by Joseph Gallian.
     <li>Math 2230 Introduction to Abstract Mathematics (Fall 2022) <br>
     Textbook (OER): <a href="https://www.people.vcu.edu/~rhammack/BookOfProof/">Book of proof</a>, R. Hammack.<br>
     </li>
-    <li>Math 4050/8056 Linear Algebra (Spring 2020 - 2023)<br>
+    <li>Math 4050/8056 Linear Algebra (Spring 2020 - 2024)<br>
     Textbook: <a href="https://linear.axler.net/">Linear algebra done right,4th edition</a> by Sheldon Axler. 
+    </li>
+    <li> Math 4110 Abstract Algebra I (Fall 2024)
     </li>
     <li>Math 4760/8766 Applied Topology (Spring 2021)
     </li>
