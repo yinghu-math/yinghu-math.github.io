@@ -15,10 +15,10 @@ slug: /research
             </ul>
         </li>
         <li> (with S. Boyer and C. Gordon) <em>Recalibrating \(\mathbb{R}\)-order trees  and \({\rm Homeo}_+(S^1)\)-representations of link groups</em>, 43 pgs, <br>
-        <b>Journal of Topology</b>, to appear. <a href="https://arxiv.org/abs/2306.10357">preprint</a>
+        <b>Journal of Topology</b>, to appear. <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.70005"> Journal link </a> | <a href="https://arxiv.org/abs/2306.10357">preprint</a>
         </li>
         <li>(with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a> and <a href="https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349">C. Gordon</a>) <em>JSJ decompositions of knot exteriors, Dehn surgery and the L-space conjecture</em>, 31 pgs, <br> 
-        <b>Selecta Mathematica</b>, to appear.  <a href="https://arxiv.org/abs/2307.06815">preprint</a>
+        <b>Selecta Mathematica</b>, to appear.  <a href="https://link.springer.com/article/10.1007/s00029-024-00999-3"> Journal link </a> | <a href="https://arxiv.org/abs/2307.06815">preprint</a>
             <ul>
             <li> Here is the <a href="/assets/files/jsj_surgeries_atlanta.pdf" target="_blank" style="color: #55B3B1;">slide</a> of a talk I gave in 2023 based on the results in this paper.
             </li> 
