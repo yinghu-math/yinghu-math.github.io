@@ -28,7 +28,7 @@ slug: /research
         <b>Journal of the European Mathematical Society</b>, to appear. <a href="https://ems.press/journals/jems/articles/13947393"> Journal link </a> | <a href="https://arxiv.org/abs/2105.12102">preprint</a>
         </li>
         <li> <em>Euler class of taut foliations and Dehn filling</em>, 33 pgs, <br>
-        <b>Communications in Analysis and Geometry</b>, 31 (2023), no. 7, 1749-1782.  <a href="https://www.intlpress.com/site/pub/pages/journals/items/cag/content/vols/0031/0007/index.php"> Journal link </a> | <a href="https://arxiv.org/abs/1912.01645">preprint</a>
+        <b>Communications in Analysis and Geometry</b>, 31 (2023), no. 7, 1749-1782.  <a href="https://intlpress.com/JDetail/1833468040303828996"> Journal link </a> | <a href="https://arxiv.org/abs/1912.01645">preprint</a>
             <ul>
             <li> Here is the <a
             href="/assets/files/GaT_online_annotated.pdf" style="color: #55B3B1;" target="_blank">note</a> of a talk at the GaTO seminar based on the results of this paper. 
