@@ -12,8 +12,8 @@ profile_picture:
 
 <ul>
 <!-- <li>I will speak at the conference <a href="https://sites.google.com/view/mwgt2025/overview?authuser=0">Midwest Panorama of Geometry and Topology</a>, at the University of Iowa in June 2025.</li> -->
-<li>I will visit Montréal as a Simons-CRM professor for the thematic program <a href="https://www.crmath.ca/en/activities/#/type/activity/id/3951">Topological and geometric structures in low dimensions</a> from June 21 through September 05, 2025.</li>
-<li>I'm co-organizing the workshop <a href="https://sites.rutgers.edu/manifolds-groups-varieties/">Computational problems about 3-manifolds, associated groups and varieties</a>, at Rutgers University-Newark in October 2025.</li>
+<li>I will visit Montréal as a Simons-CRM professor for the thematic program <a href="https://www.crmath.ca/en/activities/#/type/activity/id/3951">Topological and geometric structures in low dimensions</a> from June 21 to September 05, 2025.</li>
+<li>I'm co-organizing the workshop <a href="https://sites.rutgers.edu/manifolds-groups-varieties/">Computational problems about 3-manifolds, associated groups and varieties</a>, at Rutgers University-Newark, October 04-05, 2025.</li>
 </ul>
 
 
