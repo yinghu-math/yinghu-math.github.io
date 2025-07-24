@@ -12,14 +12,11 @@ slug: /research
             </li>
             </ul>
         </li>
-        <li>(with S. Boyer and C. Gordon) <em>Cyclic branched covers of Seifert links and properties related to the ADE link conjecture</em>, 54 pgs, <br> 
-        <strong>Journal of the London Mathematical Society</strong>, to appear. <a href="https://arxiv.org/abs/2402.15914">preprint</a>
-        </li>
-        <li> (with S. Boyer and C. Gordon) <em>Recalibrating \(\mathbb{R}\)-order trees  and \({\rm Homeo}_+(S^1)\)-representations of link groups</em>, 43 pgs, <br>
-        <strong>Journal of Topology</strong>, to appear. <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.70005"> Journal link </a> | <a href="https://arxiv.org/abs/2306.10357">preprint</a>
+        <li>(with S. Boyer and C. Gordon) <em>Cyclic branched covers of Seifert links and properties related to the ADE link conjecture</em>, 55 pgs, <br> 
+        <strong>Journal of the London Mathematical Society</strong>, 111 (2025), no. 6, Paper no. e70178, 55pp. <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70178"> Journal link </a> | <a href="https://arxiv.org/abs/2402.15914">preprint</a>
         </li>
         <li>(with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a> and <a href="https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349">C. Gordon</a>) <em>JSJ decompositions of knot exteriors, Dehn surgery and the L-space conjecture</em>, 31 pgs, <br> 
-        <strong>Selecta Mathematica</strong>, to appear.  <a href="https://link.springer.com/article/10.1007/s00029-024-00999-3"> Journal link </a> | <a href="https://arxiv.org/abs/2307.06815">preprint</a>
+        <strong>Selecta Mathematica</strong>, 31 (2025), no. 1, Paper no.3, 31pp.  <a href="https://link.springer.com/article/10.1007/s00029-024-00999-3"> Journal link </a> | <a href="https://arxiv.org/abs/2307.06815">preprint</a>
             <ul>
             <li> Here is the <a href="/assets/files/jsj_surgeries_atlanta.pdf" target="_blank" style="color: #55B3B1;">slide</a> of a talk I gave in 2023 based on the results in this paper.
             </li> 
@@ -27,6 +24,9 @@ slug: /research
         </li>
         <li> (with <a href="https://sites.google.com/bc.edu/john-baldwin/home">J. Baldwin</a> and <a href="http://wwwf.imperial.ac.uk/~ssivek/">S. Sivek</a>) <em>Khovanov homology and the cinquefoil</em>, 22 pgs, <br>
         <strong>Journal of the European Mathematical Society</strong>, 27 (2025), no. 6, 2443-2465. <a href="https://ems.press/journals/jems/articles/13947393"> Journal link </a> | <a href="https://arxiv.org/abs/2105.12102">preprint</a>
+        </li>
+        <li> (with S. Boyer and C. Gordon) <em>Recalibrating \(\mathbb{R}\)-order trees  and \({\rm Homeo}_+(S^1)\)-representations of link groups</em>, 40 pgs, <br>
+        <strong>Journal of Topology</strong>, 17 (2024), no. 4, Paper no. e70005, 40pp. <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/topo.70005"> Journal link </a> | <a href="https://arxiv.org/abs/2306.10357">preprint</a>
         </li>
         <li> <em>Euler class of taut foliations and Dehn filling</em>, 33 pgs, <br>
         <strong>Communications in Analysis and Geometry</strong>, 31 (2023), no. 7, 1749-1782.  <a href="https://intlpress.com/JDetail/1833468040303828996"> Journal link </a> | <a href="https://arxiv.org/abs/1912.01645">preprint</a>
