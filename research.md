@@ -6,16 +6,19 @@ slug: /research
 
 <div>
     <ul>
+        <li>(with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a> and <a href="https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349">C. Gordon</a>) <em>Slope detection, taut foliations, and the relative L-space conjecture</em>, <br>73 pgs, 2025. <a href="https://arxiv.org/abs/2508.06395">preprint</a>
+        </li>
         <li>(with S. Boyer and C. Gordon) <em>Slope detection and toroidal 3-manifolds</em>, 60 pgs, 2021, submitted. <a href="https://arxiv.org/abs/2106.14378">preprint</a>
             <ul>
             <li style="margin: 5px 0;"> Here is the <a href="/assets/files/slope_detection_talk_note_CMS.pdf" target="_blank" style="color: #55B3B1;">slide</a> of the talk I gave at the CMS summer meeting. Some of the results in the paper are discussed there.
             </li>
             </ul>
         </li>
+<br>
         <li>(with S. Boyer and C. Gordon) <em>Cyclic branched covers of Seifert links and properties related to the ADE link conjecture</em>, 55 pgs, <br> 
         <strong>Journal of the London Mathematical Society</strong>, 111 (2025), no. 6, Paper no. e70178, 55pp. <a href="https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.70178"> Journal link </a> | <a href="https://arxiv.org/abs/2402.15914">preprint</a>
         </li>
-        <li>(with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a> and <a href="https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349">C. Gordon</a>) <em>JSJ decompositions of knot exteriors, Dehn surgery and the L-space conjecture</em>, 31 pgs, <br> 
+        <li>(with S. Boyer and C. Gordon) <em>JSJ decompositions of knot exteriors, Dehn surgery and the L-space conjecture</em>, 31 pgs, <br> 
         <strong>Selecta Mathematica</strong>, 31 (2025), no. 1, Paper no.3, 31pp.  <a href="https://link.springer.com/article/10.1007/s00029-024-00999-3"> Journal link </a> | <a href="https://arxiv.org/abs/2307.06815">preprint</a>
             <ul>
             <li> Here is the <a href="/assets/files/jsj_surgeries_atlanta.pdf" target="_blank" style="color: #55B3B1;">slide</a> of a talk I gave in 2023 based on the results in this paper.

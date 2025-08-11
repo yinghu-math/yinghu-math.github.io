@@ -17,7 +17,7 @@ profile_picture:
 <li>I will speak in the special session “Foliations and 3-manifolds” at <a href="https://www.ams.org/meetings/sectional/2322_program.html">the AMS Fall 2025 Central Sectional Meeting</a>, Saint Louis University, October 18–19, 2025.</li>
 </ul>
 
-<p>My research is supported by NSF grant DMS-2409398.</p>
+<p>My research is partially supported by NSF grant DMS-2409398.</p>
 
 <h3>Contact</h3>
 <p>Department of Mathematical and Statistical Sciences<br>
