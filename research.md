@@ -10,6 +10,8 @@ slug: /research
         <li>(with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a> and <a href="https://cns.utexas.edu/directory/item/353-gordon-cameron-m?Itemid=349">C. Gordon</a>) <em>Slope detection, taut foliations, and the relative L-space conjecture</em>, <br>73 pgs, 2025. <a href="https://arxiv.org/abs/2508.06395">preprint</a>
         </li>
     -->
+        <li> (with S. Boyer and C. Gordon) <em> The Euler class of the normal bundle of a Seifert fibration and horizontal foliations</em>, 18pgs, 2025, <a href="https://arxiv.org/pdf/2509.20135.pdf">preprint</a>
+        </li>
         <li>(with S. Boyer and C. Gordon) <em>Slope detection and toroidal 3-manifolds</em>, 60 pgs, 2021, submitted. <a href="https://arxiv.org/abs/2106.14378">preprint</a>
             <ul>
             <li style="margin: 5px 0;"> Here is the <a href="/assets/files/slope_detection_talk_note_CMS.pdf" target="_blank" style="color: #55B3B1;">slide</a> of the talk I gave at the CMS summer meeting. Some of the results in the paper are discussed there.
