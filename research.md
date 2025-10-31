@@ -13,10 +13,10 @@ slug: /research
         <li> (with <a href="https://www.cirget.uqam.ca/boyer/">S. Boyer</a>, C. Gordon and <a href="https://sites.google.com/view/duncanmccoy">D. McCoy</a>) <em> On 3-manifolds admitting co-orientable taut foliations, but none with vanishing Euler class</em>, 22pgs, 2025, <a href="https://arxiv.org/pdf/2509.20135.pdf">preprint</a>
         </li>
         <li>(with S. Boyer and C. Gordon) <em>Slope detection and toroidal 3-manifolds</em>, 60 pgs, 2021, submitted. <a href="https://arxiv.org/abs/2106.14378">preprint</a>
-            <ul>
+    <!--        <ul>
             <li style="margin: 5px 0;"> Here is the <a href="/assets/files/slope_detection_talk_note_CMS.pdf" target="_blank" style="color: #55B3B1;">slide</a> of the talk I gave at the CMS summer meeting. Some of the results in the paper are discussed there.
             </li>
-            </ul>
+            </ul>-->
         </li>
 <br>
         <li>(with S. Boyer and C. Gordon) <em>Cyclic branched covers of Seifert links and properties related to the ADE link conjecture</em>, 55 pgs, <br> 
