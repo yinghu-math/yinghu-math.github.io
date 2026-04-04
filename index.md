@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<p>Hello, my name is Ying Hu (she/her/hers). I'm an Associate Professor in the Department of Mathematical and Statistical Sciences. </p>
+<p>Hello, my name is Ying Hu (胡瑛). I'm an Associate Professor in the Department of Mathematical and Statistical Sciences. </p>
 
 <p>I work in the area of geometric topology. You can find my research articles on the <a href="/research">publications</a> page and view my <a href="/assets/files/CV.pdf" target="_blank">CV</a>.</p> 
 
