@@ -9,6 +9,8 @@ profile_picture:
 
 <p>I work in the area of geometric topology. You can find my research articles on the <a href="/research">publications</a> page and view my <a href="/assets/files/CV.pdf" target="_blank">CV</a>.</p> 
 
+Starting July 01, I will be an Associate Professor in the School of Mathematical Sciences at Shanghai Jiao Tong University. 
+
 <!--
 <ul>
 <li>I will speak at the conference <a href="https://www.crmath.ca/en/activities/#/type/activity/id/4014"> Knots, groups, and manifolds </a> at UQAM, August 11-15, 2025.</li>
@@ -19,7 +21,7 @@ profile_picture:
 </ul>
 -->
 
-<p>My research is partially supported by NSF grant DMS-2409398.</p>
+<!-- <p>My research is partially supported by NSF grant DMS-2409398.</p> -->
 
 <h3>Contact</h3>
 <p>Department of Mathematical and Statistical Sciences<br>
