@@ -1,9 +1,10 @@
 ---
 layout: work
-title: Spring 2026
+title: Fall 2026
 slug: /teaching
 ---
 
+<!--
 <ul>
 <li>
 Math 1950 Calculus I <br>
@@ -12,11 +13,12 @@ Math 1950 Calculus I <br>
 Textbook: <a href="https://linear.axler.net/">Linear algebra done right,4th edition</a> by Sheldon Axler. 
 </li>
 </ul>
+-->
 
 <div>
-<h3 >Past courses</h3>
+<h3 >Past courses at UNO</h3>
 <ul>
-    <li>Math 1950 Calculus I (Fall 2018 - 2025)
+    <li>Math 1950 Calculus I (Fall 2018 - 2025, Spring 2026)
     </li>
     <li>Math 1960 Calculus II (Spring 2019 - 2020, 2022 - 2023)
     </li>
@@ -30,7 +32,7 @@ Textbook: <a href="https://linear.axler.net/">Linear algebra done right,4th edit
     </li>
     <li>Math 3640/8640 Modern Geometry (Fall 2025)<br>
     </li>
-    <li>Math 4050/8056 Linear Algebra (Spring 2020 - 2024)<br>
+    <li>Math 4050/8056 Linear Algebra (Spring 2020 - 2026)<br>
     Textbook: <a href="https://linear.axler.net/">Linear algebra done right,4th edition</a> by Sheldon Axler. 
     </li>
     <li> Math 4110 Abstract Algebra I (Fall 2024) <br>

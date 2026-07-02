@@ -5,11 +5,9 @@ profile_picture:
   alt: website picture
 ---
 
-<p>Hello, my name is Ying Hu (胡瑛). I'm an Associate Professor in the Department of Mathematical and Statistical Sciences. </p>
+<p>Hello, my name is Ying Hu (胡瑛). I'm a Tenured Associate Professor in the <a href="https://math.sjtu.edu.cn/Default/index/">School of Mathematical Sciences</a> at Shanghai Jiao Tong University. </p>
 
 <p>I work in the area of geometric topology. You can find my research articles on the <a href="/research">publications</a> page and view my <a href="/assets/files/CV.pdf" target="_blank">CV</a>.</p> 
-
-Starting July 01, I will be an Associate Professor in the School of Mathematical Sciences at Shanghai Jiao Tong University. 
 
 <!--
 <ul>
@@ -24,13 +22,13 @@ Starting July 01, I will be an Associate Professor in the School of Mathematical
 <!-- <p>My research is partially supported by NSF grant DMS-2409398.</p> -->
 
 <h3>Contact</h3>
-<p>Department of Mathematical and Statistical Sciences<br>
-University of Nebraska Omaha<br>
-6001 Dodge Street, Omaha, NE 68182-0243
+<p>School of Mathematical Sciences<br>
+Shanghai Jiao Tong University<br>
+800 Dongchuan Rd, Minhang District, Shanghai
 </p>
 
 <p>
-Office: DSC 223 | Phone: 402.554.4867<br>
-Email: <a href="mailto:yinghu@unomaha.edu">yinghu@unomaha.edu</a> <br>
+Office: Science Building 6, 720 | Phone: 021 5474 0207 <br>
+Email: <a href="mailto:yinghu@sjtu.edu.cn">yinghu@sjtu.edu.cn</a> <br>
 </p>
 <p> Name Pronunciation: EEng hOO </p> 
