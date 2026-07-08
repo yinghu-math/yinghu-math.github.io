@@ -24,7 +24,7 @@ profile_picture:
 <h3>Contact</h3>
 <p>School of Mathematical Sciences<br>
 Shanghai Jiao Tong University<br>
-800 Dongchuan Rd, Minhang District, Shanghai
+800 Dongchuan Rd, Minhang District, Shanghai, 200240
 </p>
 
 <p>
