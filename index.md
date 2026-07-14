@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<p>Hello, my name is Ying Hu (胡瑛). I'm an Associate Professor in the <a href="https://math.sjtu.edu.cn/Default/index/">School of Mathematical Sciences</a> at Shanghai Jiao Tong University (上海交通大学). </p>
+<p>Hello, my name is Ying Hu (胡瑛). I'm an Associate Professor in the <a href="https://math.sjtu.edu.cn">School of Mathematical Sciences</a> at Shanghai Jiao Tong University (上海交通大学). </p>
 
 <p>I work in the area of geometric topology. You can find my research articles on the <a href="/research">publications</a> page and view my <a href="/assets/files/CV.pdf" target="_blank">CV</a>.</p> 
 
